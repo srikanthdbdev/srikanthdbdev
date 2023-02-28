@@ -1,1 +1,3 @@
-select * from tab;
+select * from dual;
+
+select sysdate from dual;
